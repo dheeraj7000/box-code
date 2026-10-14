@@ -1,3 +1,3 @@
 # Box-Code
 
-A sandboxed, Claude Code–style software engineering agent.
+A sandboxed, sandboxed–style software engineering agent.
